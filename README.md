@@ -13,6 +13,10 @@ A empresa fictícia LetsChemical vende insumos para indústrias químicas (B2B).
 - Garantir que realmente as causas levantadas interferem no problema avaliado.
 - Após implementação do plano de ação em Julho/2022, acompanhar e garantir que realmente foi efetivado no controle do problema.
 
+<h3 align="center">
+<a href="https://app.powerbi.com/view?r=eyJrIjoiNTkyNDg3NmQtNThhNC00ZTMwLWFiMTgtNjQ3NjI5NDYxZWFkIiwidCI6IjJhNjhhMTEwLTZhOWYtNDIyNS1iNjNlLTMwNDViM2JjOTQwYiJ9" target="_blank">Visualizar projeto</a>
+</h1>
+
 # 2. Conceitos 
 
 |   Atributos    |                                  Significado                                  |
